@@ -21,12 +21,12 @@ The data for analysis was gathered from various sources by **API and webscraping
 2. Increased popularity in Python indicative of a move towards Data Science, AI and Machine Learning.
 3. Increased interest in languages used in mobile web development such as Kotlin.
 
-![Alt text]([image.png](https://drive.google.com/file/d/1eiCjj1kV7mM_x7iiTiHTmfmc4Sg3nunW/view?usp=drive_link))
+![Alt text](https://drive.google.com/file/d/1eiCjj1kV7mM_x7iiTiHTmfmc4Sg3nunW/view?usp=drive_link)
 
 4.  Significant decrease in interest in MySQL and Microsoft SQL Server while increased interest in modern databases such as PostgreSQL and MongoDB.
 5. No longer any significant interest in Oracle.
 
-![Alt text]([image-1.png](https://drive.google.com/file/d/1oG3DvOm9NDxTngyrHIYYhCI9ABqQUD0G/view?usp=drive_link))
+![Alt text](https://drive.google.com/file/d/1oG3DvOm9NDxTngyrHIYYhCI9ABqQUD0G/view?usp=drive_link)
 
 6. Wide gender disparity in developers with 93.5% being men, and only 6.5% women.
 7. Concentration of developer talent in USA and India.
